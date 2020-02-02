@@ -14,7 +14,7 @@ old_id: 5
 -----------------------
 
 - **I get "Connection failed" when I try to connect to Ripple**  
-- Click the "Inspect" button on the server switcher and make sure that all the labels are green ([like this](https://i.ibb.co/68TL6zT/Settings-Form.png)). If you still can't solve this problem, come on our [Discord](https://discord.ripple.moe) and we'll help you.
+- Click the "Inspect" button on the server switcher and make sure that all the labels are green ([like this](https://i.ibb.co/68TL6zT/Settings-Form.png)). If you still can't solve this problem, come on our [Discord](https://discord.gg/87E2K46) and we'll help you.
 
 -----------------------
 
