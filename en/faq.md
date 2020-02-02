@@ -19,7 +19,7 @@ old_id: 5
 -----------------------
 
 - **I get "Bancho authentication failed" (wrong password) when I try to log in, but my password is correct!**  
-- First, make sure you're connected to Ripple (the server switcher should report "You're playing on Ripple") and that your password is corrected. If so, type your username and password, then press the **login** button with your mouse. I know, it's weird but it often works. *(make also sure that caps lock is disabled if your password is lowercase)*
+- First, make sure you're connected to RealistikOsu! (the server switcher should report "You're playing on RealistikOsu!") and that your password is corrected. If so, type your username and password, then press the **login** button with your mouse. I know, it's weird but it often works. *(make also sure that caps lock is disabled if your password is lowercase)*
 
 -----------------------
 
@@ -53,13 +53,13 @@ old_id: 5
 
 -----------------------
 
-- **Is there a patcher for ripple?**
-- No, you can change server by editing the hosts file with our switcher. [Instructions here](https://ripple.moe/doc/1).
+- **Is there a patcher for RealistikOsu!?**
+- No, you can change server by editing the hosts file with our switcher. [Instructions here](https://ussr.pl/doc/1).
 
 -----------------------
 
-- **Can I have ripple's source code?**
--  Ripple is mostly open source, you can see it [here](https://zxq.co/ripple/ripple).
+- **Can I have RealistikOsu!'s source code?**
+-  RealistikOsu! is mostly open source, you can see it [here](https://github.com/RealistikOsu).
 
 -----------------------
 
@@ -69,4 +69,4 @@ old_id: 5
 -----------------------
 
 - **My problem is not listed here**
-- Join our [discord](https://discord.ripple.moe) and ask your question in the #help channel of the server.
+- Join our [discord](https://discord.gg/87E2K46) and ask your question in the #⋞-rosu-questions-and-support channel of the server.
