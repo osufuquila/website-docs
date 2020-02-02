@@ -1,7 +1,4 @@
----
-title: "How to connect to RealistikOsu!"
-old_id: 1
----
+
 - [Register](https://ussr.pl/register) an account  
 - Download the [RealistikOsu! switcher](http://dl.ussr.pl/files/osu/ROS.exe)
 - If you are met with any issues, turn off your antivirus (some can cause issues as the switcher edits the hosts file)
