@@ -1,6 +1,6 @@
 # website-docs
 
-A repository containing the documentation available at the Ripple website on https://ripple.moe/doc. This is made mainly for translation purposes. Typo fixes are welcome even if you're not part of the translation team; however note that if you want to make big contributions you should probably fill in the [Translating Ripple](https://docs.google.com/forms/d/e/1FAIpQLScYgWfrqsjyI55dq2ZFIZgp5dCfmcqWP5XZTE602bqCfhAeew/viewform) form, so that we can add you to our Discord translation team.
+This is a repository that stores all the RealistikOsu's docs (https://ussr.pl/doc). It is here on GitHub to allow our staff team to quickly adjust them to the server's needs. 
 
 ## How to create new files
 
