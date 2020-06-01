@@ -9,7 +9,7 @@ old_id: 5
 -----------------------
 
 - **My antivirus is blocking the switcher**
-- That's because our switcher edits the hosts file. Turn off your antivirus and run the switcher again.
+- That's because our switcher edits the hosts file. Turn off your antivirus or add the switcher as an exception and run the switcher again.
 
 -----------------------
 
@@ -19,7 +19,7 @@ old_id: 5
 -----------------------
 
 - **I get "Bancho authentication failed" (wrong password) when I try to log in, but my password is correct!**  
-- First, make sure you're connected to RealistikOsu! (the server switcher should report "You're playing on RealistikOsu!") and that your password is corrected. If so, type your username and password, then press the **login** button with your mouse. I know, it's weird but it often works. *(make also sure that caps lock is disabled if your password is lowercase)*
+- First, make sure you're connected to RealistikOsu! (the server switcher should report "Connected to RealistikOsu!") and that your password is corrected. If so, type your username and password, then press the **login** button with your mouse. I know, it's weird but it often works. *(make also sure that caps lock is disabled if your password is lowercase)*
 
 -----------------------
 
@@ -34,27 +34,27 @@ old_id: 5
 -----------------------
 
 - **How do I play on the normal osu! again?**
-- Close osu!, run the switcher and click the **Switch to osu!** button
+- Close osu!, run the switcher and click the **Connect to Bancho!** button
 
 -----------------------
 
-- **My switcher is off but when I open osu.ppy.sh in my browser I get an error or I get redirected to ripple's website!**
+- **My switcher is off but when I open osu.ppy.sh in my browser I get an error or I get redirected to RealistikOsu's website!**
 - Make sure the switcher is off, then empty your browser cache and restart your browser. [Google it](http://lmgtfy.com/?q=How+to+empty+browser+cache) if you don't know how to do it.
 
 -----------------------
 
-- **I get strange errors on osu!'s website after playing on ripple (beatmaps not found etc)**
+- **I get strange errors on osu!'s website after playing on RealistikOsu (beatmaps not found etc)**
 - Delete `s` and `t` cookies relative to osu.ppy.sh using a [cookie editor](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg). If you don't know how to remove specific cookies, just delete all cookies from your browser settings.
 
 -----------------------
 
 - **Can I keep playing while the server is restarting because it's updating?**
-- Yes, your scores will be sent as soon as the server gets back online (usually less than a minute). Just make sure to not close the client.
+- While this event is unlikely, your scores will still be sent as soon as the server gets back online (usually less than a minute). Just make sure to not close the client as then they will be permanently lost.
 
 -----------------------
 
 - **Is there a patcher for RealistikOsu!?**
-- No, you can change server by editing the hosts file with our switcher. [Instructions here](https://ussr.pl/doc/1).
+- Not **yet**, you can change server by editing the hosts file with our switcher. [Instructions here](https://ussr.pl/doc/1).
 
 -----------------------
 
@@ -64,7 +64,7 @@ old_id: 5
 -----------------------
 
 - **Why are osu!direct and other in-game supporter perks free?**
-- We think that osu! direct is very cool and it's a shame people have to pay to have it, that's why we're offering it for free on Ripple. If you like what we do, please consider a [donation](/donate)
+- While peppy's osu!direct is paid, we offer ours for free, alongside a completely separate beatmap mirror. This is because we believe osu!direct is currently the best method of downloading beatmaps and it would be a shame to lock it behind a pay wall.
 
 -----------------------
 
