@@ -33,16 +33,16 @@ old_id: 9
 **Cheating Punishments**
 Cheating utilises a 3 strike system.
 
-**1st strike:** 1 month long restriction + wipe of the cheated gamemodes
-**2nd strike:** 3 month restriction + full wipe of the account
-**3rd strike:** Permanent but appealable ban
+- **1st strike:** 1 month long restriction + wipe of the cheated gamemodes
+- **2nd strike:** 3 month restriction + full wipe of the account
+- **3rd strike:** Permanent but appealable ban
 
 **Multiaccounting**
 Multiaccounting adopts a similar system to cheating. Every single time will result with the permanent ban of the multiaccount.
 
-**1st strike:** 15 day restriction on the main account
-**2nd strike:** 1-1.5 month restriction on the main account
-**3rd strike:** Permanent but appealable restriction on the main account
+- **1st strike:** 15 day restriction on the main account
+- **2nd strike:** 1-1.5 month restriction on the main account
+- **3rd strike:** Permanent but appealable restriction on the main account
 
 **In-game Toxicity**
 
