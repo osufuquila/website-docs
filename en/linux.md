@@ -1,5 +1,5 @@
 ---
-title: "How to connect to Ripple (Linux)"
+title: "[TODO] How to connect to Ripple (Linux)"
 old_id: 14
 ---
 This guide is only for connecting osu! to ripple, and not setting the game itself up. You can follow [this guide](https://gist.github.com/Francesco149/a2f796683a4e5195458f4bb171d88eb0) to set the client up.

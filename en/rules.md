@@ -15,6 +15,7 @@ old_id: 9
 5. **Exploiting vunerabilities** for a malicious reason is bannable. You will be better off reporting it to the developer or owner team.
 6. **Inappropeate usernames** will be automatically changed and you may be punished with a silence.
 7. **Don't abuse our patience;** while we try to best satisfy our users' need, if you repeatedly infringe our rules or abuse services provided by the staff (e.g. appealing and name changing) (with particular regard to users who also disrespect our staff's efforts, passively or actively, or are otherwise toxic within the community), we will first warn you, and if it comes to it we will offer an ultimatum. If you refuse or otherwise don't change your behaviour, we'll have no choice but to ban you.
+8. **Impersonation** is prohibited and doing so may read to a punishment which will be decided on your motives.
 
 <h3><i class="user icon"></i> Profile rules</h3>
 
@@ -30,18 +31,18 @@ old_id: 9
 #### _This is how we handle the bad guys at RealistikOsu!_
 
 **Cheating Punishments**
-Cheating now uses a 3 strike system.
+Cheating utilises a 3 strike system.
 
-**1st time:** 1 month long restriction + wipe of the cheated gamemodes
-**2nd time:** 3 month restriction + full wipe of the account
-**3rd time:** Permanent but appealable ban
+**1st strike:** 1 month long restriction + wipe of the cheated gamemodes
+**2nd strike:** 3 month restriction + full wipe of the account
+**3rd strike:** Permanent but appealable ban
 
 **Multiaccounting**
 Multiaccounting adopts a similar system to cheating. Every single time will result with the permanent ban of the multiaccount.
 
-**1st time:** 15 day restriction on the main account
-**2nd time:** 1-1.5 month restriction on the main account
-**3rd time:** Permanent but appealable restriction on the main account
+**1st strike:** 15 day restriction on the main account
+**2nd strike:** 1-1.5 month restriction on the main account
+**3rd strike:** Permanent but appealable restriction on the main account
 
 **In-game Toxicity**
 
